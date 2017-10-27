@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Јела</string>
+    <string name="first_activity_name">Прва активност</string>
+    <string name="second_activity_name">Друга активност</string>
+    <string name="third_activity_name">Трећа активност</string>
+    <string name="starting_activity">Започни активност</string>
+    <string name="opening_activity">Отварање веб претраживача</string>
+    <string name="naziv_jela">Назив јела</string>
+    <string name="description">Опис јела</string>
+    <string name="cena">Цена</string>
+    <string name="cal">Калорије</string>
+    <string name="name_restaurant">име_ресторана</string>
+    <string name="name_title">Име ресторана</string>
+    <string name="name_sum">Промените назив ресторана</string>
+
+    <string name="adress_restaurant">адреса_ресторана</string>
+    <string name="adress_title">Адреса ресторана</string>
+    <string name="adress_sum">Изменити адресу ресторана</string>
+    <string name="setting">Активност подешавања</string>
+
+    <string name="activity_first_toolbar_title">Назив линије са алатима</string>
+
+    <string name="fragment_master_action_create">Додај</string>
+
+    <string name="fragment_detail_button_buy">Купи</string>
+    <string name="fragment_detal_action_update">Измени</string>
+    <string name="fragment_detal_action_delete">Уклони</string>
+
+
+    <string name="dialog_about_title">О апликацији</string>
+    <string name="dialog_about_message">Апликацију Фиока је направила Данијела Караклић</string>
+
+    <string name="dialog_about_yes">У реду</string>
+    <string name="dialog_about_no">Одустани</string>
+
+
+    <string name="detail_heading">Детаљи веб стране</string>
+    <string name="list_heading">Списак веб страна</string>
+    <string name="order">Наручите жељено јело</string>
+
+    <string name="drawer_open">Отворите Навигациону фиоку</string>
+    <string name="drawer_close">Затворите навигациону фиоку</string>
+    <string name="drawer_home">Главна страница</string>
+    <string name="drawer_home_long">Прикажите сва јела</string>
+    <string name="drawer_settings">Подешавања</string>
+    <string name="drawer_settings_long">Промена подешавања апликације</string>
+    <string name="drawer_about">О</string>
+    <string name="drawer_about_long">О нама</string>
+
+    <string name="notification_title">Наручена ставка</string>
+    <string name="notification_text">Изабрана ставка је наручена и биће испоручена у току дана.</string>
+
+    <string name="drawer_category">Категорије</string>
+    <string name="drawer_category_long">Приказ свих категорија</string>
+</resources>
